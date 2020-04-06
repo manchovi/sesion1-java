@@ -20,6 +20,10 @@ public class Sesion1Java {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null, "Hola mundo JAVA-Git");
+        JOptionPane.showMessageDialog(null, "Hola Netbeans");
+        JOptionPane.showMessageDialog(null, "Hola Eclipse");
+        JOptionPane.showMessageDialog(null, "Hola IntelliJ Idea");
+        
     }
     
 }
